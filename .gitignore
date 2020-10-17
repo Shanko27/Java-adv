@@ -1,0 +1,3 @@
+# Project exclude paths
+/ts/DZ/node_modules/
+/ts/DZ/app.js
