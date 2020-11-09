@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:master" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8e48283e-b99c-49ab-b1ab-04550e389601" name="Default Changelist" comment="all">
+      <change afterPath="$PROJECT_DIR$/React/les1/src/Data/data.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/React/les1/src/components/user/user.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/React/les1/src/components/users-list/Users.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/React/les2/src/components/User.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/React/les2/src/components/Users.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/React/les2/src/services/UserService.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TypeScript File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="SYNC" />
+  </component>
+  <component name="ProjectId" id="1izgh4hLioux3XqX42CPr7uSTt2" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="ts.external.directory.path" value="C:\Users\Admin\Desktop\Jun-Jun\Angular\dz4\node_modules\typescript\lib" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8e48283e-b99c-49ab-b1ab-04550e389601" name="Default Changelist" comment="" />
+      <created>1602915950093</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602915950093</updated>
+      <workItem from="1602915951140" duration="337000" />
+      <workItem from="1602917461485" duration="631000" />
+      <workItem from="1602934629167" duration="131000" />
+      <workItem from="1602934832582" duration="2026000" />
+      <workItem from="1602939252476" duration="4162000" />
+      <workItem from="1604406414495" duration="822000" />
+      <workItem from="1604410741078" duration="1403000" />
+      <workItem from="1604686968210" duration="1531000" />
+      <workItem from="1604726233919" duration="2112000" />
+      <workItem from="1604737049317" duration="6996000" />
+      <workItem from="1604820290473" duration="1843000" />
+      <workItem from="1604825391843" duration="3714000" />
+      <workItem from="1604833656723" duration="2437000" />
+      <workItem from="1604848143962" duration="4038000" />
+      <workItem from="1604908525108" duration="602000" />
+      <workItem from="1604932144312" duration="15293000" />
+      <workItem from="1604956510795" duration="5058000" />
+    </task>
+    <task id="LOCAL-00001" summary="all">
+      <created>1602935270618</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1602935270618</updated>
+    </task>
+    <task id="LOCAL-00002" summary="all">
+      <created>1602939609346</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1602939609346</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+    <option name="exactExcludedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/ts/DZ/app.js" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="all" />
+    <option name="LAST_COMMIT_MESSAGE" value="all" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="552" y="256" key="#ESLint" timestamp="1604958813258">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="552" y="256" key="#ESLint/0.0.1366.728/1366.-304.1920.1040@0.0.1366.728" timestamp="1604958813258" />
+    <state x="552" y="256" key="#ESLint/0.0.1366.728/1366.-311.1920.1040@0.0.1366.728" timestamp="1604825236438" />
+    <state x="308" y="0" key="CommitChangelistDialog2" timestamp="1602946144637">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="308" y="0" key="CommitChangelistDialog2/0.0.1366.728/1366.-311.1920.1040@0.0.1366.728" timestamp="1602946144637" />
+    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1604832614584">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728/1366.-311.1920.1040@0.0.1366.728" timestamp="1604832614584" />
+    <state x="507" y="283" key="Github.CreateGistDialog" timestamp="1602938845968">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="507" y="283" key="Github.CreateGistDialog/0.0.1366.728/1366.-311.1920.1040@0.0.1366.728" timestamp="1602938845968" />
+    <state x="479" y="230" key="Github.CreatePullRequestDialog" timestamp="1602939413533">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="479" y="230" key="Github.CreatePullRequestDialog/0.0.1366.728/1366.-311.1920.1040@0.0.1366.728" timestamp="1602939413533" />
+    <state x="561" y="261" key="Github.ShareDialog" timestamp="1602939353131">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="561" y="261" key="Github.ShareDialog/0.0.1366.728/1366.-311.1920.1040@0.0.1366.728" timestamp="1602939353131" />
+    <state x="484" y="68" key="Github.UntrackedFilesDialog" timestamp="1602935055173">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="484" y="68" key="Github.UntrackedFilesDialog/0.0.1366.728/1366.-311.1920.1040@0.0.1366.728" timestamp="1602935055173" />
+    <state x="450" y="66" key="RollbackChangesDialog" timestamp="1602938863989">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="450" y="66" key="RollbackChangesDialog/0.0.1366.728/1366.-311.1920.1040@0.0.1366.728" timestamp="1602938863989" />
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1604406435108">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728/1366.-311.1920.1040@0.0.1366.728" timestamp="1604406435108" />
+    <state x="546" y="249" width="348" height="298" key="org.angular.cli.generate" timestamp="1602940880727">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="546" y="249" width="348" height="298" key="org.angular.cli.generate/0.0.1366.728/1366.-311.1920.1040@0.0.1366.728" timestamp="1602940880727" />
+  </component>
+</project>
