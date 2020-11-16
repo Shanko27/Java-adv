@@ -12,12 +12,12 @@ constructor(props) {
 
      let users = this.props.items;
 
-        // let oneUsers = this.props.getOneUserApp;
+        let oneUsers = this.props.getOneUsers;
         return (
             <div>
                 {
                     users.map(value => (<User item={value} key={value.id}
-                    // getOneUser={oneUsers}
+                    getOneUser={oneUsers}
                     />))
                 }
             </div>
