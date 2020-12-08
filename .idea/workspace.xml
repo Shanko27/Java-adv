@@ -25,13 +25,14 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8e48283e-b99c-49ab-b1ab-04550e389601" name="Default Changelist" comment="all">
-      <change afterPath="$PROJECT_DIR$/React/les1/src/Data/data.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/React/les1/src/components/user/user.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/React/les1/src/components/users-list/Users.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/React/les2/src/components/User.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/React/les2/src/components/Users.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/React/les2/src/services/UserService.js" afterDir="false" />
+    <list default="true" id="8e48283e-b99c-49ab-b1ab-04550e389601" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/React/dz3/src/component/users.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/React/dz3/src/form/form1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/React/dz3/src/services/userService.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/React/les3/src/Form1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/React/les3/src/Form2.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/React/les3/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/React/les3/src/App.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,6 +48,7 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_UPDATE_ALL_ROOTS" value="false" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="ROOT_SYNC" value="SYNC" />
   </component>
@@ -70,6 +72,7 @@
     <property name="node.js.selected.package.standard" value="" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
     <property name="ts.external.directory.path" value="C:\Users\Admin\Desktop\Jun-Jun\Angular\dz4\node_modules\typescript\lib" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -97,7 +100,39 @@
       <workItem from="1604848143962" duration="4038000" />
       <workItem from="1604908525108" duration="602000" />
       <workItem from="1604932144312" duration="15293000" />
-      <workItem from="1604956510795" duration="5058000" />
+      <workItem from="1604956510795" duration="5555000" />
+      <workItem from="1604993339902" duration="5311000" />
+      <workItem from="1605075004474" duration="2229000" />
+      <workItem from="1605100189971" duration="7650000" />
+      <workItem from="1605160522894" duration="1898000" />
+      <workItem from="1605162505143" duration="2043000" />
+      <workItem from="1605344411872" duration="1112000" />
+      <workItem from="1605345712921" duration="40000" />
+      <workItem from="1605345769258" duration="172000" />
+      <workItem from="1605346709073" duration="13000" />
+      <workItem from="1605346742138" duration="8000" />
+      <workItem from="1605346794521" duration="438000" />
+      <workItem from="1605347261278" duration="32000" />
+      <workItem from="1605347963266" duration="128000" />
+      <workItem from="1605348184209" duration="152000" />
+      <workItem from="1605348362581" duration="12000" />
+      <workItem from="1605363046312" duration="6000" />
+      <workItem from="1605363379506" duration="97000" />
+      <workItem from="1605363712594" duration="59000" />
+      <workItem from="1605363832744" duration="812000" />
+      <workItem from="1605364754707" duration="149000" />
+      <workItem from="1605376308863" duration="36000" />
+      <workItem from="1605377242166" duration="50000" />
+      <workItem from="1605418632664" duration="1216000" />
+      <workItem from="1605432112465" duration="864000" />
+      <workItem from="1605433012928" duration="420000" />
+      <workItem from="1605433462970" duration="14905000" />
+      <workItem from="1605511882954" duration="16383000" />
+      <workItem from="1605597184237" duration="1195000" />
+      <workItem from="1605950509400" duration="3161000" />
+      <workItem from="1606031231336" duration="3337000" />
+      <workItem from="1606118161244" duration="6048000" />
+      <workItem from="1606197923997" duration="3051000" />
     </task>
     <task id="LOCAL-00001" summary="all">
       <created>1602935270618</created>
@@ -113,7 +148,21 @@
       <option name="project" value="LOCAL" />
       <updated>1602939609346</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="all">
+      <created>1604961886643</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1604961886643</updated>
+    </task>
+    <task id="LOCAL-00004" summary="all">
+      <created>1605516727955</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1605516727955</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -153,18 +202,31 @@
     <option name="LAST_COMMIT_MESSAGE" value="all" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="552" y="256" key="#ESLint" timestamp="1604958813258">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state x="2142" y="62" key="#ESLint" timestamp="1605432417710">
+      <screen x="1366" y="-304" width="1920" height="1040" />
     </state>
     <state x="552" y="256" key="#ESLint/0.0.1366.728/1366.-304.1920.1040@0.0.1366.728" timestamp="1604958813258" />
+    <state x="2142" y="62" key="#ESLint/0.0.1366.728/1366.-304.1920.1040@1366.-304.1920.1040" timestamp="1605432417710" />
     <state x="552" y="256" key="#ESLint/0.0.1366.728/1366.-311.1920.1040@0.0.1366.728" timestamp="1604825236438" />
-    <state x="308" y="0" key="CommitChangelistDialog2" timestamp="1602946144637">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state x="1968" y="-37" key="#Notifications" timestamp="1605433306109">
+      <screen x="1366" y="-304" width="1920" height="1040" />
     </state>
+    <state x="428" y="187" key="#Notifications/0.0.1366.728/1366.-304.1920.1040@0.0.1366.728" timestamp="1604962000738" />
+    <state x="1968" y="-37" key="#Notifications/0.0.1366.728/1366.-304.1920.1040@1366.-304.1920.1040" timestamp="1605433306109" />
+    <state x="1799" y="-304" key="CommitChangelistDialog2" timestamp="1605516716775">
+      <screen x="1366" y="-304" width="1920" height="1040" />
+    </state>
+    <state x="308" y="0" key="CommitChangelistDialog2/0.0.1366.728/1366.-304.1920.1040@0.0.1366.728" timestamp="1604961880464" />
+    <state x="1799" y="-304" key="CommitChangelistDialog2/0.0.1366.728/1366.-304.1920.1040@1366.-304.1920.1040" timestamp="1605516716775" />
     <state x="308" y="0" key="CommitChangelistDialog2/0.0.1366.728/1366.-311.1920.1040@0.0.1366.728" timestamp="1602946144637" />
-    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1604832614584">
+    <state x="91" y="55" key="DiffContextDialog" timestamp="1604961851225">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
+    <state x="91" y="55" key="DiffContextDialog/0.0.1366.728/1366.-304.1920.1040@0.0.1366.728" timestamp="1604961851225" />
+    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1604994732094">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728/1366.-304.1920.1040@0.0.1366.728" timestamp="1604994732094" />
     <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728/1366.-311.1920.1040@0.0.1366.728" timestamp="1604832614584" />
     <state x="507" y="283" key="Github.CreateGistDialog" timestamp="1602938845968">
       <screen x="0" y="0" width="1366" height="728" />
@@ -182,17 +244,49 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="484" y="68" key="Github.UntrackedFilesDialog/0.0.1366.728/1366.-311.1920.1040@0.0.1366.728" timestamp="1602935055173" />
-    <state x="450" y="66" key="RollbackChangesDialog" timestamp="1602938863989">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state x="1999" y="-210" key="RollbackChangesDialog" timestamp="1605472662705">
+      <screen x="1366" y="-304" width="1920" height="1040" />
     </state>
+    <state x="450" y="66" key="RollbackChangesDialog/0.0.1366.728/1366.-304.1920.1040@0.0.1366.728" timestamp="1604961855137" />
+    <state x="1999" y="-210" key="RollbackChangesDialog/0.0.1366.728/1366.-304.1920.1040@1366.-304.1920.1040" timestamp="1605472662705" />
     <state x="450" y="66" key="RollbackChangesDialog/0.0.1366.728/1366.-311.1920.1040@0.0.1366.728" timestamp="1602938863989" />
-    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1604406435108">
+    <state x="1625" y="-293" key="SettingsEditor" timestamp="1605516509668">
+      <screen x="1366" y="-304" width="1920" height="1040" />
+    </state>
+    <state x="184" y="8" key="SettingsEditor/0.0.1366.728/1366.-304.1920.1040@0.0.1366.728" timestamp="1604961992294" />
+    <state x="1625" y="-293" key="SettingsEditor/0.0.1366.728/1366.-304.1920.1040@1366.-304.1920.1040" timestamp="1605516509668" />
+    <state x="1753" y="-167" key="Vcs.Push.Dialog.v2" timestamp="1605516898619">
+      <screen x="1366" y="-304" width="1920" height="1040" />
+    </state>
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728/1366.-304.1920.1040@0.0.1366.728" timestamp="1604962012824" />
+    <state x="1753" y="-167" key="Vcs.Push.Dialog.v2/0.0.1366.728/1366.-304.1920.1040@1366.-304.1920.1040" timestamp="1605516898619" />
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728/1366.-311.1920.1040@0.0.1366.728" timestamp="1604406435108" />
+    <state x="221" y="0" width="1047" height="816" key="dock-window-1" timestamp="1606147949541">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728/1366.-311.1920.1040@0.0.1366.728" timestamp="1604406435108" />
+    <state x="2331" y="-300" width="954" height="518" key="dock-window-1/0.0.1366.728/1366.-304.1920.1040@0.0.1366.728" timestamp="1605162807646" />
+    <state x="221" y="0" width="1047" height="816" key="dock-window-1/0.0.1366.728/1366.-304.1920.1040@1366.-304.1920.1040" timestamp="1606147949541" />
+    <state x="0" y="0" width="1083" height="816" key="dock-window-2" timestamp="1605536756026">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="2313" y="190" width="954" height="518" key="dock-window-2/0.0.1366.728/1366.-304.1920.1040@0.0.1366.728" timestamp="1605162807647" />
+    <state x="0" y="0" width="1083" height="816" key="dock-window-2/0.0.1366.728/1366.-304.1920.1040@1366.-304.1920.1040" timestamp="1605536756026" />
+    <state x="299" y="0" width="1083" height="816" key="dock-window-3" timestamp="1605547566034">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="2312" y="-304" width="990" height="525" key="dock-window-3/0.0.1366.728/1366.-304.1920.1040@0.0.1366.728" timestamp="1605110520703" />
+    <state x="299" y="0" width="1083" height="816" key="dock-window-3/0.0.1366.728/1366.-304.1920.1040@1366.-304.1920.1040" timestamp="1605547566034" />
+    <state x="299" y="0" width="1083" height="816" key="dock-window-4" timestamp="1605548585388">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="299" y="0" width="1083" height="816" key="dock-window-4/0.0.1366.728/1366.-304.1920.1040@1366.-304.1920.1040" timestamp="1605548585388" />
     <state x="546" y="249" width="348" height="298" key="org.angular.cli.generate" timestamp="1602940880727">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="546" y="249" width="348" height="298" key="org.angular.cli.generate/0.0.1366.728/1366.-311.1920.1040@0.0.1366.728" timestamp="1602940880727" />
+    <state x="2466" y="57" key="search.everywhere.popup" timestamp="1605112873025">
+      <screen x="1366" y="-304" width="1920" height="1040" />
+    </state>
+    <state x="2466" y="57" key="search.everywhere.popup/0.0.1366.728/1366.-304.1920.1040@0.0.1366.728" timestamp="1605112873025" />
   </component>
 </project>
